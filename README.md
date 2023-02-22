@@ -13,11 +13,11 @@ Daniella Matute is a synthetic and computational biologist with over five years 
 |:----------------|:-------------------------------|:----|
 |DNA and RNA isolation| spectroscopy  |cell culture|
 |Electrophoresis|chromatography techniques  |media preparation|
-|DNA restriction|  |basic lab maintenance|
-|plasmid cloning |  ||
-|cell lysis |  ||
-|protein purification |  ||
-|protein expression|||||
+|DNA restriction| mass spectrometry |basic lab maintenance|
+|plasmid cloning | light scattering |NGS prep|
+|cell lysis |surface plasmon resonance  |DNA assembly|
+|protein purification |  |Genome editing|
+|protein expression||plasmid vector design|
 
 ### Computation skills (summarised list)
 |Languages|Code Editors|SynBio & Bioinformatic Tools|Other|
@@ -26,7 +26,7 @@ Daniella Matute is a synthetic and computational biologist with over five years 
 |SQL|VSC|SNAPgene|Command Line|
 |R|RStudio|WGA|Visualisation|
 |MATLAB|PyCharm|Alignment|Machine Learning|
-|HTML|Qiime2||Diverse Python Packages|
+|HTML|Qiime2|DNA & Protein Database|Diverse Python Packages|
 
 ### Experience In:
 - Automation engineering
@@ -34,7 +34,7 @@ Daniella Matute is a synthetic and computational biologist with over five years 
 - Stem cell lineage determination computational modeling
 - Drug treatment profiling for Cancer
 - Pharmaceutical Marketing, R&D, and Regulatory Affairs
-- *and much more*
+- [*and much more*](https://github.com/DanyMatute/Portfolio) 
 
 ### Education:
 - The University of Edinburgh (Scotland) Distinction Award & 4.0 GPA
@@ -48,4 +48,6 @@ Daniella Matute is a synthetic and computational biologist with over five years 
 
 Fluent in Spanish and English.
 
-![alt text](DNA stands studying in the library, digital art.png)
+<p align="center">
+  <img src="DNA stands studying in the library, digital art.png" height="500"/ >
+  </p>
