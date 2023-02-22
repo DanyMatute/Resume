@@ -47,3 +47,5 @@ Daniella Matute is a synthetic and computational biologist with over five years 
 
 
 Fluent in Spanish and English.
+
+![alt text](DNA stands studying in the library, digital art.png)
